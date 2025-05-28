@@ -1,22 +1,23 @@
-<!-- Banner GIF -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Knight-Ron/portImages/blob/main/St_Augustine2.jpg" width="100%" alt="St. Augustine - Inspired Banner" />
+  <img src="https://raw.githubusercontent.com/Knight-Ron/portImages/main/St_Augustine2.jpg" width="100%" alt="St. Augustine - Inspired Banner" />
 </p>
 
-<h1 align="center">Ronald Jacob</h1>
+<h1 align="center">☩ 𝕽𝖔𝖓𝖆𝖑𝖉 𝕵𝖆𝖈𝖔𝖇 ☩</h1>
+
 <p align="center"><i>Final Year CS Student | Java Full Stack Dev (In Progress) | Writing Code That Doesn’t Cry</i></p>
 
 ---
 
-## 🧠 About Me
+## ⚜ About Me
 
 <p align="left">
-I’m currently leveling up in Java and Full Stack Development. Not a prodigy — just a builder getting better every day. Expect code that’s messy at first, but honest and improving. Let’s see where this ends up.
+I’m leveling up in Java and Full Stack Development — not a prodigy, just a builder getting better every day. My code may start messy, but it’s always real and always improving.
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## ⚜ Tech Stack
 
 <table align="center">
   <tr>
@@ -41,13 +42,11 @@ I’m currently leveling up in Java and Full Stack Development. Not a prodigy �
   </tr>
 </table>
 
-
-
 <p align="center"><i>Coming soon: JDBC • Servlets • Spring Boot • APIs</i></p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚜ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical" width="47%" />
@@ -55,7 +54,7 @@ I’m currently leveling up in Java and Full Stack Development. Not a prodigy �
 
 ---
 
-## 📡 Connect with Me
+## ⚜ Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronaldjacob" target="_blank">
@@ -65,3 +64,7 @@ I’m currently leveling up in Java and Full Stack Development. Not a prodigy �
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<h4 align="center"><code>☩ Keep your code clean, your Git commits cleaner ☩</code></h4>
