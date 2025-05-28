@@ -35,7 +35,6 @@ Iâ€™m currently leveling up in Java and Full Stack Development. Not a prodigy â€
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=radical" width="47%" />
 </p>
 
 ---
