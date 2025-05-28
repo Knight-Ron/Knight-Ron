@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Knight-Ron/portImages/refs/heads/main/St_Augustine.jpg" width="100%" alt="St. Augustine - Inspired Banner" />
+  <img src="https://github.com/Knight-Ron/portImages/blob/main/St_Augustine2.jpg" width="100%" alt="St. Augustine - Inspired Banner" />
 </p>
 
 <h1 align="center">Ronald Jacob</h1>
