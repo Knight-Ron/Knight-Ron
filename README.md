@@ -4,7 +4,7 @@ Aspiring Java Full-Stack Developer | Final Year CS Student | Passionate Learner
 
 ## 🚀 About Me
 
-- 🎓 Final year Computer Science student at [Chandigarh Univesrity]
+- 🎓 Final year Computer Science student at Chandigarh Univesrity
 - 🌱 Currently learning Java, Web Development, and Data Structures
 - 💼 Aiming to secure a full-time developer role
 - 🧠 Enthusiastic about building projects and solving real-world problems
