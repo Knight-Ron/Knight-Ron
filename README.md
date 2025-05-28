@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Knight Ron
+# 👋 Hello, I'm Ronald Jacob
 
 Aspiring Java Full-Stack Developer | Final Year CS Student | Passionate Learner
 
