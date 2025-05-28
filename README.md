@@ -51,6 +51,8 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
 
 ## ⚜ Connect with Me
 
+<p align="center"> <img src="https://raw.githubusercontent.com/Knight-Ron/portImages/refs/heads/main/you-look-lonely-i-can-fix-that-bladerunner2049.gif" width="30%" alt="You look lonely, I can fix that" /> </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ronaldjacob" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
