@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Knight-Ron/portImages/main/St_Augustine2.jpg" width="100%" alt="St. Augustine - Inspired Banner" />
-</p>
-
 <h1 align="center">☩ 𝕽𝖔𝖓𝖆𝖑𝖉 𝕵𝖆𝖈𝖔𝖇 ☩</h1>
 
 <p align="center"><i>Final Year CS Student | Java Full Stack Dev (In Progress) | Writing Code That Doesn’t Cry</i></p>
