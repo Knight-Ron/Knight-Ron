@@ -34,6 +34,9 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br><sub>Git</sub>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/><br><sub>Solidity</sub>
+    </td>
   </tr>
 </table>
 
