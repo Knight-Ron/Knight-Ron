@@ -50,15 +50,12 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
 ## ⚜ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-Ron&layout=compact&theme=radical&hide_border=false&langs_count=6" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical&hide_border=true&hide_rank=false" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=radical&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=highcontrast&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-Ron&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 ---
