@@ -43,18 +43,22 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
   </tr>
 </table>
 
-<p align="center"><i>Coming soon: JDBC • Servlets • Spring Boot • APIs</i></p>
+<p align="center"><i>Coming soon: JDBC • Servlets • Spring Boot • REST APIs</i></p>
 
 ---
 
 ## ⚜ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-Ron&layout=compact&theme=radical&hide_border=false&langs_count=6" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=highcontrast&hide_border=false"45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=highcontrast&hide_border=false" width="45%" />
 </p>
 
 ---
