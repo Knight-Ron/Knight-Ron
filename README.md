@@ -23,6 +23,9 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br><sub>Python</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/><br><sub>PHP</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><br><sub>HTML5</sub>
     </td>
     <td align="center">
