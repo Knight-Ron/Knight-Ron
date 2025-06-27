@@ -1,8 +1,8 @@
 <h1 align="center">☩ 𝕽𝖔𝖓𝖆𝖑𝖉 𝕵𝖆𝖈𝖔𝖇 ☩</h1>
 
 <p align="center">
-  <i>Final Year CS Student | Java Full Stack Dev (In Progress) | Writing Code That Doesn’t Cry</i><br>
-  <a href="https://knight-ron.github.io" target="_blank"><code>🌐 knight-ron.github.io</code></a>
+  <i>Final Year CS Student | Java Full Stack Dev (In Progress) | Shells, Systems & Clean Code</i>
+  🌐 <a href="https://knight-ron.github.io" target="_blank"><code>knight-ron.github.io</code></a>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## ⚜ About Me
 
 <p align="left">
-I’m leveling up in Java and Full Stack Development — not a prodigy, just a builder getting better every day. My code may start messy, but it’s always real and always improving.
+I’m leveling up in Java and Full Stack Development — not a prodigy, just a builder getting better every day. I also love getting my hands dirty with terminals, configs, and system tweaks.
 </p>
 
 ---
@@ -23,7 +23,7 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br><sub>Java</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br><sub>Python</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/><br><sub>Bash</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/><br><sub>PHP</sub>
@@ -44,12 +44,15 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br><sub>Git</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br><sub>Python</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/><br><sub>Solidity</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><i>Coming soon: JDBC • Servlets • Spring Boot • REST APIs</i></p>
+<i>Coming soon: JDBC • Servlets • Spring Boot • REST APIs • Bash Scripting • Linux Admin • Network Troubleshooting</i>
 
 ---
 
@@ -81,4 +84,5 @@ I’m leveling up in Java and Full Stack Development — not a prodigy, just a b
 
 ---
 
-<h4 align="center"><code>☩ Keep your code clean, your Git commits cleaner ☩</code></h4>
+<h4 align="center"><code>☩ You ever wonder if your code is watching you too? ☩
+</code></h4>
