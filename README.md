@@ -1,88 +1,77 @@
-<h1 align="center">☩ 𝕽𝖔𝖓𝖆𝖑𝖉 𝕵𝖆𝖈𝖔𝖇 ☩</h1>
+<h1>☩ 𝕽𝖔𝖓𝖆𝖑𝖉 𝕵𝖆𝖈𝖔𝖇 ☩</h1>
 
-<p align="center">
-  <i>Final Year CS Student | Java Full Stack Dev (In Progress) | Shells, Systems & Clean Code</i>
-  🌐 <a href="https://knight-ron.github.io" target="_blank"><code>knight-ron.github.io</code></a>
-</p>
+  <i>Backend Engineering • System Logging • CLI-first Mindset</i><br>
+  ✠ <a href="https://knight-ron.github.io" target="_blank"><code>knight-ron.github.io</code></a>
 
 ---
 
 ## ⚜ About Me
 
-<p align="left">
-I’m leveling up in Java and Full Stack Development — not a prodigy, just a builder getting better every day. I also love getting my hands dirty with terminals, configs, and system tweaks.
-</p>
+Final-year CS student focused on backend tooling that lives in the terminal — not the browser.
+  
+Just someone who enjoys building things that **log**, **track**, and **automate** — without trying to look pretty doing it.
+
+Most of my code lives behind the scenes:  
+Structured logs, system snapshots, CLI flags, shell commands, SQL inserts. 
+
+Right now, I’m deepening my backend + system stack:  
+Java, MySQL, Linux commands, cron jobs, and structured rollback logic.  
+The goal isn’t to impress — it’s to **understand how systems behave** when no one’s watching.
+
+> If the logs are clean and the config is backed up, I sleep well.  
+> If it runs without crashing... that’s my UI.
 
 ---
 
 ## ⚜ Tech Stack
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br><sub>Java</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/><br><sub>Bash</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/><br><sub>PHP</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><br><sub>HTML5</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><br><sub>CSS3</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br><sub>JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br><sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br><sub>Git</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br><sub>Python</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/><br><sub>Solidity</sub>
-    </td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br><sub>Java</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br><sub>MySQL</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/><br><sub>Bash</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/><br><sub>PHP</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br><sub>Node.js</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br><sub>Git</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/><br><sub>Linux</sub></td>
   </tr>
 </table>
 
-<i>Coming soon: JDBC • Servlets • Spring Boot • REST APIs • Bash Scripting • Linux Admin • Network Troubleshooting</i>
+<i>✠ Learning: Spring Boot • Servlets • REST APIs • Cron • Log Analysis • Config Diffing</i>
 
 ---
 
 ## ⚜ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical&hide_border=true&hide_rank=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=radical&hide_border=true" width="47%" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Knight-Ron&show_icons=true&theme=radical&hide_border=true" width="50%" />
 </p>
 
-<p align="center">
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-Ron&theme=radical&hide_border=true" width="50%" />
+</p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-Ron&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 ---
 
-## ⚜ Connect with Me
+## ⚜ Reach Out
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Knight-Ron/portImages/refs/heads/main/you-look-lonely-i-can-fix-that-bladerunner2049.gif" width="30%" alt="You look lonely, I can fix that" /> </p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ronaldjacob" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ronaldjacobofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-b23121?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Knight-Ron/portImages/refs/heads/main/you-look-lonely-i-can-fix-that-bladerunner2049.gif" width="30%" />
 </p>
 
 ---
 
-<h4 align="center"><code>☩ You ever wonder if your code is watching you too? ☩
-</code></h4>
+<h4 align="center"><code>☩ Terminal open. Head down. Still trying to figure it out. ☩</code></h4>
